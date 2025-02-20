@@ -1,18 +1,29 @@
-# MERN Stack Full Ecommerce Site
+# MERN Stack Full E-commerce Site
 
-Powerful MERN Stack Ecommerce Project using React, Redux, Node.js, Express, MongoDB, Stripe.We are going to using Redux for state management, stipe to handle our payments, Cloudinary to handle our images, and follow the best practices to implement Authentication & Authorization.
+A powerful full-stack e-commerce application built with the MERN stack (MongoDB, Express.js, React, and Node.js). This project includes authentication, payment integration, an admin dashboard, and more.
 
-## Features
+## 🛠 Technologies Used
 
--   Build powerful and fully functional E-commerce website using MERN
--   Redux (Best state management tool)
--   Authentication using cookies
--   Complete Admin Dashboard to manage products, orders, reviews, users
--   Add third party site like cloudinary to upload images
--   Payment Integration using Stripe
--   Add filters, search and pagination
--   Complete ratings & reviews system
--   Complete Cart & Checkout process
+- **Frontend:** React, Redux Toolkit, Tailwind CSS
+- **Backend:** Node.js, Express.js, MongoDB
+- **State Management:** Redux
+- **Authentication:** JSON Web Tokens (JWT), Cookies
+- **File Storage:** Cloudinary
+- **Payment Integration:** Stripe
+- **Database:** MongoDB with Mongoose
+- **Other Features:** Pagination, Filtering, Search, Reviews & Ratings
+
+## 🔥 Features
+
+✅ Fully functional e-commerce platform  
+✅ Authentication & Authorization (JWT & Cookies)  
+✅ Admin Dashboard (Manage products, orders, reviews, and users)  
+✅ Secure payment processing with Stripe  
+✅ Image management with Cloudinary  
+✅ Advanced search, filters, and pagination  
+✅ Ratings & Reviews system  
+✅ Shopping cart & checkout process  
+
 
 [Live Site](https://shopx-mern-app.herokuapp.com/)
 
