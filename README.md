@@ -1,27 +1,37 @@
+# MERN Stack Full Ecommerce Site
 
-# MERN Stack Full E-commerce Site
- A powerful MERN Stack e-commerce project using React, Redux, Node.js, Express, MongoDB, and Stripe. We will use Redux for state management, Stripe to handle payments, Cloudinary to manage images, and follow best practices to implement authentication and authorization.
+Powerful MERN Stack Ecommerce Project using React, Redux, Node.js, Express, MongoDB, Stripe.We are going to using Redux for state management, stipe to handle our payments, Cloudinary to handle our images, and follow the best practices to implement Authentication & Authorization.
 
-## 🛠 Technologies Used
+## Features
 
-- **Frontend:** React, Redux Toolkit, Tailwind CSS
-- **Backend:** Node.js, Express.js, MongoDB
-- **State Management:** Redux
-- **Authentication:** JSON Web Tokens (JWT), Cookies
-- **File Storage:** Cloudinary
-- **Payment Integration:** Stripe
-- **Database:** MongoDB with Mongoose
-- **Other Features:** Pagination, Filtering, Search, Reviews & Ratings
+-   Build powerful and fully functional E-commerce website using MERN
+-   Redux (Best state management tool)
+-   Authentication using cookies
+-   Complete Admin Dashboard to manage products, orders, reviews, users
+-   Add third party site like cloudinary to upload images
+-   Payment Integration using Stripe
+-   Add filters, search and pagination
+-   Complete ratings & reviews system
+-   Complete Cart & Checkout process
 
-## 🔥 Features
+[Live Site](https://shopx-mern-app.herokuapp.com/)
 
-✅ Fully functional e-commerce platform  
-✅ Authentication & Authorization (JWT & Cookies)  
-✅ Admin Dashboard (Manage products, orders, reviews, and users)  
-✅ Secure payment processing with Stripe  
-✅ Image management with Cloudinary  
-✅ Advanced search, filters, and pagination  
-✅ Ratings & Reviews system  
-✅ Shopping cart & checkout process  
+## Homepage
 
+<img src="./assets/2022-08-03_094154.png" alt="Home Page" title="Home Page">
 
+## Product Page
+
+<img src="./assets/2022-08-03_094255.png" alt="Product Page" title="Product Page">
+
+## Product Details Page
+
+<img src="./assets/2022-08-03_094343.png" alt="Product Details" title="Product Details">
+
+## Cart Page
+
+<img src="./assets/2022-08-03_094443.png" alt="Cart Page" title="Cart Page">
+
+## Order Details
+
+<img src="./assets/2022-08-03_094556.png" alt="Order Details" title="Order Details">
